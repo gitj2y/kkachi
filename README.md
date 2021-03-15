@@ -1,2 +1,0 @@
-# kkachi
-first repository
