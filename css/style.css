@@ -110,9 +110,8 @@ body { margin: 0px; padding: 0px;}
 }
 
 .updown {
-  border: 5px solid black;
+  border-left: 1px solid black;
   margin-left: 20%;
-  width: 0.1px;
   height: 550px;
 }
 
