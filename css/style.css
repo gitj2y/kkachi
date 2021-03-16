@@ -109,10 +109,13 @@ body { margin: 0px; padding: 0px;}
   display: inline;
 }
 
-.updown {
-  border-left: 0.5px solid black;
-  margin-left: 350px;
-  height: 550px;
-  width
+.vl {
+  border-left: 6px solid black;
+  height: 500px;
+  position: absolute;
+  left: 50%;
+  margin-left: -3px;
+  top: 0;
 }
+
 
