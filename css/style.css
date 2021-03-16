@@ -1,5 +1,5 @@
 html body {
-  width: 70%;
+  width: 65%;
   margin: 0 auto;
 }
 
@@ -24,7 +24,7 @@ section {
 }
 
 .a {
-  margin-left: 10px;
+  margin-left: 20px;
   padding-top: 15px;
 }
 .a span:nth-child(2) {
@@ -32,7 +32,9 @@ section {
 }
 
 .b {
-  display: inline-block;
+  display: block;
+  margin-top: 50px;
+  margin-bottom: -40px;
 }
 
 .c {
@@ -41,7 +43,7 @@ section {
 
 .dept01 {
   text-align: right;
-  margin-top: -55px;   /*로그인 상단 간격*/
+  margin-top: -35px;   /*로그인 상단 간격*/
   margin-right: 30px;
   list-style-type: none;
   padding-left: 0px;
