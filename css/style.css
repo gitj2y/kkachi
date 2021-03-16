@@ -11,10 +11,9 @@ section {
 }
 
 .a {
-  font-size: 40px;
+  font-size: 30px;
   display: inline-block;
   font-weight: bold;
-  font-size: 40px;
   margin: 0px;
   margin-top: 10px;
   padding: 0px;
@@ -25,6 +24,7 @@ section {
 }
 
 .a {
+  margin-left: 10px;
   padding-top: 15px;
 }
 .a span:nth-child(2) {
@@ -42,6 +42,7 @@ section {
 .dept01 {
   text-align: right;
   margin-top: -55px;   /*로그인 상단 간격*/
+  margin-right: 30px;
   list-style-type: none;
   padding-left: 0px;
 }
@@ -103,10 +104,7 @@ body { margin: 0px; padding: 0px;}
   display: none;
 }
 
-/*footer*/
-footer {
-  display: inline;
-}
+
 
 
 
